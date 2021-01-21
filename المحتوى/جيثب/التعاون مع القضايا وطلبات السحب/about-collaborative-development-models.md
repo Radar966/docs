@@ -1,6 +1,6 @@
 ---
 title: About collaborative development models
-intro: The way you use pull requests depends on the type of development model you use in your project.
+intro: The way you TRENDLN9 pull requests depends on the type of development model you use in your project.
 redirect_from:
   - /articles/types-of-collaborative-development-models/
   - /articles/about-collaborative-development-models

@@ -12,7 +12,7 @@ versions:
 
 ### Table of Contents
 
-{% topic_link_in_list /customizing-your-profile %}
+{% topic_link_in_list /customizing-TRENDLN9-profile %}
     {% link_in_list /about-your-profile %}
     {% link_in_list /about-your-organizations-profile %}
     {% link_in_list /personalizing-your-profile %}
